@@ -1,0 +1,98 @@
+# Dependency directories
+node_modules/
+.pnp/
+.pnp.js
+
+# Optional npm cache directory
+.npm
+
+# Debug log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# MacOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build directories
+build/
+dist/
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Front-end specific
+quake-track-front-end/node_modules/
+quake-track-front-end/.pnp/
+quake-track-front-end/.pnp.js
+quake-track-front-end/.npm
+quake-track-front-end/npm-debug.log*
+quake-track-front-end/yarn-debug.log*
+quake-track-front-end/yarn-error.log*
+quake-track-front-end/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+quake-track-front-end/.DS_Store
+quake-track-front-end/.vscode/
+quake-track-front-end/.idea/
+quake-track-front-end/*.suo
+quake-track-front-end/*.ntvs*
+quake-track-front-end/*.njsproj
+quake-track-front-end/*.sln
+quake-track-front-end/build/
+quake-track-front-end/dist/
+quake-track-front-end/coverage/
+quake-track-front-end/.env
+quake-track-front-end/.env.local
+quake-track-front-end/.env.development.local
+quake-track-front-end/.env.test.local
+quake-track-front-end/.env.production.local
+quake-track-front-end/*.tsbuildinfo
+
+# Back-end specific
+quake-track-back-end/node_modules/
+quake-track-back-end/.pnp/
+quake-track-back-end/.pnp.js
+quake-track-back-end/.npm
+quake-track-back-end/npm-debug.log*
+quake-track-back-end/yarn-debug.log*
+quake-track-back-end/yarn-error.log*
+quake-track-back-end/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+quake-track-back-end/.DS_Store
+quake-track-back-end/.vscode/
+quake-track-back-end/.idea/
+quake-track-back-end/*.suo
+quake-track-back-end/*.ntvs*
+quake-track-back-end/*.njsproj
+quake-track-back-end/*.sln
+quake-track-back-end/dist/
+quake-track-back-end/coverage/
+quake-track-back-end/.env
+quake-track-back-end/.env.local
+quake-track-back-end/.env.development.local
+quake-track-back-end/.env.test.local
+quake-track-back-end/.env.production.local
+quake-track-back-end/*.tsbuildinfo
+quake-track-back-end/logs/
+quake-track-back-end/*.log
